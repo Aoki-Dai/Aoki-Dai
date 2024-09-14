@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=gruvbox)
+
+## ContributionSnake
+![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
+
