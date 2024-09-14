@@ -1,4 +1,25 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <a href="https://github.com/Aoki-Dai">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Aoki-Dai" />
+  </a>
+  <a href="https://github.com/Aoki-Dai">
+    <img height="20" src="https://img.shields.io/github/followers/Aoki-Dai?label=follow&logo=github&style=flat" />
+  </a>
+</div>
+
+
+<!-- 2. プロフィールや連絡先を変更 -->
+<!-- ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there -->
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I'm Dai</h1>
+<br>
+
+- 🧑‍💻 I am a student engineer who loves web development.
+- 🌱 I’m currently learning go!
+- 📫 How to reach me: [X - @DaiAoki_2026](https://x.com/DaiAoki_2026)
+<br>
 
 <!--
 **Aoki-Dai/Aoki-Dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <a href="https://github.com/Aoki-Dai">
-    <img height="20" src="https://komarev.com/ghpvc/?username=Aoki-Dai" />
-  </a>
-  <a href="https://github.com/Aoki-Dai">
-    <img height="20" src="https://img.shields.io/github/followers/Aoki-Dai?label=follow&logo=github&style=flat" />
-  </a>
-</p>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=gruvbox)
