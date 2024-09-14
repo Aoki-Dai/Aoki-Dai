@@ -23,3 +23,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=gruvbox)
