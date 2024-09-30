@@ -25,8 +25,8 @@
 - 🧑‍💻 I am a student engineer who loves web development.
 - 🌱 I’m currently learning go!
 - 📫 How to reach me: [X - @DaiAoki_2026](https://x.com/DaiAoki_2026)
-<br>
 
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,java,ruby,python,js,html,css,php,go)](https://skillicons.dev)
 
 <!--
