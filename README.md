@@ -28,7 +28,7 @@
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,java,ruby,python,js,html,css,php,go)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=laravel,flask,rails,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,flask,rails,bootstrap,tailwind,jquery,p5js,)](https://skillicons.dev)
 
 <!--
 **Aoki-Dai/Aoki-Dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
