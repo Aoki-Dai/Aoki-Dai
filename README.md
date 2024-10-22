@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 ## ContributionSnake
 ![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
 
+<!--透明な 1x1 ピクセルの画像が表示され、各プロファイル ビューでカウンターが増加します。GitHubはプロキシ サービスを使用して画像をレンダリングする
+ため、このカウンターはヒット数のみを追跡でき、訪問者は追跡できません。-->
+![](https://hit.yhype.me/github/profile?user_id=108746684)
