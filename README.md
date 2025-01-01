@@ -52,14 +52,14 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=zenburn&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk)
 
 ## ContributionSnake
 ![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
