@@ -52,11 +52,16 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=zenburn&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=noctis_minimus&utcOffset=9)
+
+<p align="left"> 
+  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoki-Dai&layout=compact&show_icons=true&theme=noctis_minimus" />
+  <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=Aoki-Dai&theme=noctis_minimus&show_icons=ture" />
+</p>
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk)
@@ -64,6 +69,6 @@ Here are some ideas to get you started:
 ## ContributionSnake
 ![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
 
-<!--透明な 1x1 ピクセルの画像が表示され、各プロファイル ビューでカウンターが増加します。GitHubはプロキシ サービスを使用して画像をレンダリングする
-ため、このカウンターはヒット数のみを追跡でき、訪問者は追跡できません。-->
+<!--透明な 1x1 ピクセルの画像が表示され、各プロファイル ビューでカウンターが増加します。
+GitHubはプロキシ サービスを使用して画像をレンダリングするため、このカウンターはヒット数のみを追跡でき、訪問者は追跡できません。-->
 ![](https://hit.yhype.me/github/profile?user_id=108746684)
