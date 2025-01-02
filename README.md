@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ContributionSnake
 ![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
