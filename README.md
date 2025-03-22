@@ -33,8 +33,14 @@
 - 📫 How to reach me: [X - @DaiAoki_2026](https://x.com/DaiAoki_2026)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,java,ruby,python,js,html,css,php,go)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=laravel,flask,rails,bootstrap,tailwind,jquery,p5js,)](https://skillicons.dev)
+### 趣味、授業程度
+[![My Skills](https://skillicons.dev/icons?i=c,java,go,ts,react,nextjs,p5js,figma,aws,matlab)](https://skillicons.dev)
+
+### インターンなどで触った
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,ruby,rails,python,flask,bootstrap,mysql,sqlite,docker,woodpress)](https://skillicons.dev)
+
+### バイトや研究で使用
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,php,laravel)](https://skillicons.dev)
 
 <!--
 **Aoki-Dai/Aoki-Dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
