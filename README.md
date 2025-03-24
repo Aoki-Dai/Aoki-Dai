@@ -29,7 +29,7 @@
 <br>
 
 - 🧑‍💻 I am a student engineer who loves web development.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning Next.js!
 - 📫 How to reach me: [X - @DaiAoki_2026](https://x.com/DaiAoki_2026)
 
 ## My Skills
