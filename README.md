@@ -58,16 +58,18 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=noctis_minimus)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=noctis_minimus)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=noctis_minimus)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=noctis_minimus)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=noctis_minimus&utcOffset=9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aoki-dai&theme=noctis-minimus&hide_border=%E9%96%93%E9%81%95%E3%81%84&border_radius=5&locale=ja&short_numbers=%E9%96%93%E9%81%95%E3%81%84&date_format=%5BY.%5Dn.j&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 <p align="left"> 
   <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoki-Dai&layout=compact&show_icons=true&theme=noctis_minimus" />
   <img alt="github stats" height="165px" src="https://github-readme-stats-fork-dai-aokis-projects.vercel.app/api?username=Aoki-Dai&show_icons=true&theme=noctis_minimus" />
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aoki-Dai&theme=noctis_minimus)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=noctis_minimus&utcOffset=9)
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
