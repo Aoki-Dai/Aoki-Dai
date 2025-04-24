@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=aoki-dai&theme=noctis-minimus&hide_border=%E9%96%93%E9%81%95%E3%81%84&border_radius=5&locale=ja&short_numbers=%E9%96%93%E9%81%95%E3%81%84&date_format=%5BY.%5Dn.j&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 <p align="left"> 
   <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoki-Dai&layout=compact&show_icons=true&theme=noctis_minimus" />
