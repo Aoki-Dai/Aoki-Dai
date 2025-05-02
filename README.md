@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoki-Dai&layout=compact&show_icons=true&theme=noctis_minimus" />
-  <img alt="github stats" height="165px" src="https://github-readme-stats-fork-dai-aokis-projects.vercel.app/api?username=Aoki-Dai&show_icons=true&theme=noctis_minimus" />
+  <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=aoki-dai&count_private=true&show_icons=true&theme=noctis_minimus&include_all_commits=true" />
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aoki-Dai&theme=noctis_minimus)
