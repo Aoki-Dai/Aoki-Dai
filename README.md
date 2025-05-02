@@ -20,6 +20,12 @@
   <a href="https://github.com/Aoki-Dai">
     <img height="20" src="https://img.shields.io/github/followers/Aoki-Dai?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://speakerdeck.com/aokidai27">
+    <img height="20" src="https://img.shields.io/badge/-@aokidai27?style=social&logo=speakerdeck&label=@aokidai27"/>
+  </a>
+  <a href="https://x.com/DaiAoki_2026">
+    <img src="https://img.shields.io/badge/-@DaiAoki_2026?style=social&logo=x&label=@DaiAoki_2026"/>
+  </a>
 </div>
 
 
