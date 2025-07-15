@@ -2,12 +2,12 @@
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <a href="http://qiita.com/AokiDai">
+<!--   <a href="http://qiita.com/AokiDai">
     <img height="20" src="https://qiita-badge.apiapi.app/s/AokiDai/posts.svg" />
   </a>
   <a href="http://qiita.com/AokiDai">
     <img height="20" src="https://qiita-badge.apiapi.app/s/AokiDai/contributions.svg" />
-  </a>
+  </a> -->
   <a href="https://zenn.dev/aoki_dai">
     <img src="https://badgen.org/img/zenn/aoki_dai/likes?style=flat" alt="Likes" />
   </a>
