@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 
 ## Stats
 
+![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/aoki-dai)
+
 <p align="left"> 
   <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoki-Dai&layout=compact&show_icons=true&theme=noctis_minimus" />
   <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=aoki-dai&count_private=true&show_icons=true&theme=noctis_minimus&include_all_commits=true" />
