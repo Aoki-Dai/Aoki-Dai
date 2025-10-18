@@ -7,19 +7,19 @@
   </a>
   <a href="http://qiita.com/AokiDai">
     <img height="20" src="https://qiita-badge.apiapi.app/s/AokiDai/contributions.svg" />
-  </a> -->
+  </a>
   <a href="https://zenn.dev/aoki_dai">
     <img src="https://badgen.org/img/zenn/aoki_dai/likes?style=flat" alt="Likes" />
   </a>
   <a href="https://zenn.dev/aoki_dai?tab=scraps">
     <img src="https://badgen.org/img/zenn/aoki_dai/scraps?style=flat" alt="Scraps" />
-  </a>
+  </a> -->
   <a href="https://github.com/Aoki-Dai">
     <img height="20" src="https://komarev.com/ghpvc/?username=Aoki-Dai" />
   </a>
-  <a href="https://github.com/Aoki-Dai">
+  <!-- <a href="https://github.com/Aoki-Dai">
     <img height="20" src="https://img.shields.io/github/followers/Aoki-Dai?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   <a href="https://speakerdeck.com/aokidai27">
     <img height="20" src="https://img.shields.io/badge/-@aokidai27?style=social&logo=speakerdeck&label=@aokidai27"/>
   </a>
@@ -35,9 +35,10 @@
 <br>
 
 - 🧑‍💻 I am a student engineer who loves web development.
-- 🌱 I’m currently learning Next.js!
+- 🌱 I’m currently learning Ruby!
 - 📫 How to reach me: [X - @DaiAoki_2026](https://x.com/DaiAoki_2026)
 
+<!--
 ## My Skills
 ### 趣味、授業程度
 [![My Skills](https://skillicons.dev/icons?i=c,java,go,ts,react,nextjs,p5js,figma,aws,matlab)](https://skillicons.dev)
@@ -47,6 +48,7 @@
 
 ### バイトや研究で使用
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,php,laravel)](https://skillicons.dev)
+-->
 
 <!--
 **Aoki-Dai/Aoki-Dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,8 +85,10 @@ Here are some ideas to get you started:
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 ## ContributionSnake
 ![](https://raw.githubusercontent.com/Aoki-Dai/Aoki-Dai/output/github-contribution-grid-snake.svg)
+-->
 
 <!--透明な 1x1 ピクセルの画像が表示され、各プロファイル ビューでカウンターが増加します。
 GitHubはプロキシ サービスを使用して画像をレンダリングするため、このカウンターはヒット数のみを追跡でき、訪問者は追跡できません。-->
