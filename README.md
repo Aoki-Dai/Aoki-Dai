@@ -34,9 +34,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I'm Dai</h1>
 <br>
 
-- 🧑‍💻 I am a student engineer who loves web development.
-- 🌱 I’m currently learning Ruby!
-- 📫 How to reach me: aokidai0127@gmail.com
+- 🧑‍💻 I am a software engineer who loves web development.
+- 🌱 I’m currently learning Ruby and Go!
+- 📫 How to reach me: [@DaiAoki_2026](https://x.com/DaiAoki_2026) or aokidai0127@gmail.com
 
 <!--
 ## My Skills
