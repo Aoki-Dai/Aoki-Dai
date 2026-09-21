@@ -34,8 +34,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I'm Dai</h1>
 <br>
 
-- 🧑‍💻 I am a software engineer who loves web development.
-- 🌱 I’m currently learning Ruby and Go!
+- 🧑‍💻 I am a software engineer who loves Web and ML development.
+- 🌱 I’m currently learning Rails and AI !
 - 📫 How to reach me: [@DaiAoki_2026](https://x.com/DaiAoki_2026) or aokidai0127@gmail.com
 
 <!--
@@ -65,9 +65,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats
+<!--## Stats
 
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/aoki-dai)
+-->
 
 <!--
 <p align="left">
@@ -82,8 +83,9 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aoki-Dai&theme=noctis_minimus&utcOffset=9)
 -->
 
-## Trophy
+<!-- ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aoki-Dai&theme=chalk&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 ## ContributionSnake
